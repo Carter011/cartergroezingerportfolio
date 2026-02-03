@@ -8,6 +8,6 @@ Mechanical Engineering student at Embry-Riddle Aeronautical University (May 2026
 
 ## Navigation
 - [Projects](projects.md)
-- [Resume](resume.pdf)
+- [Resume](CarterGroezingerResume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/CGroezinger)
 - Email: CarterGroezinger1319@outlook.com
