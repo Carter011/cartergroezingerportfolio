@@ -5,7 +5,7 @@ title: EcoCAR – CAVS Testing & Validation
 # EcoCAR – CAVS Testing & Validation
 
 ## My Role
-Team Lead – Connected and Autonomous Vehicle Systems (CAVS)
+Team Lead – Vehicle to Everything Communication (V2X)
 
 ## Testing & Validation
 - Software-in-the-Loop (SIL)
@@ -15,5 +15,3 @@ Team Lead – Connected and Autonomous Vehicle Systems (CAVS)
 ## Tools
 Linux, C++, ROS2, communications/networking
 
-## Relevance to Flight Test Engineering
-Progression from simulation to integrated vehicle testing mirrors aerospace test progression.
