@@ -1,5 +1,6 @@
-[Home](index.md) | [Projects](projects.md) | [About](about.md) | [Resume](resume.pdf)
-
+<p align="center">
+  <img src="assets/about/professional-headshot.jpg" width="180" style="border-radius: 10px;">
+</p>
 
 # Carter Groezinger
 
@@ -7,11 +8,12 @@ Mechanical Engineering student at Embry-Riddle Aeronautical University (May 2026
 
 ---
 
-## Navigation
-- [Projects](projects.md)
-- [About](about.md)
-- [Resume](resume.pdf)
-- [LinkedIn](https://www.linkedin.com/in/cgroezinger)
+<p align="center">
+  <a href="projects.md"><b>Projects</b></a> &nbsp;•&nbsp;
+  <a href="about.md"><b>About</b></a> &nbsp;•&nbsp;
+  <a href="resume.pdf"><b>Resume</b></a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/cgroezinger"><b>LinkedIn</b></a>
+</p>
 
 ---
 
