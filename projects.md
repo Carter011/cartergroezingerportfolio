@@ -5,7 +5,7 @@ title: Projects
 # Projects
 
 ## EcoCAR – V2X / CAVS Testing & Validation
-Validated the final CAVS system through SIL, HIL, and VIL testing.
+Led Vehicle to Everything communication team and validated final Connected Automated Vehicle Systems
 
 [Read more](ecocar.md)
 
