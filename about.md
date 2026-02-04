@@ -1,3 +1,5 @@
+[Home](index.html) | [Projects](projects.html) | [About](about.html) | [Resume](resume.pdf)
+
 ---
 title: About
 ---
