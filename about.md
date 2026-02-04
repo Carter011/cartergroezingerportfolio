@@ -1,4 +1,4 @@
-[Home](index.html) | [Projects](projects.html) | [About](about.html) | [Resume](resume.pdf)
+[Home](index.md) | [Projects](projects.md) | [About](about.md) | [Resume](resume.pdf)
 
 ---
 title: About
