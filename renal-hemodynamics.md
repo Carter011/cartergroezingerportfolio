@@ -1,8 +1,5 @@
 [Home](index.md) | [Projects](projects.md) | [About](about.md) | [Resume](resume.pdf)
 
----
-title: Renal Artery Hemodynamics
----
 
 # Renal Artery Hemodynamics Using the Lattice Boltzmann Method
 
