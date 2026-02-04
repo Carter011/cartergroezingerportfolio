@@ -69,7 +69,8 @@ allowfullscreen>
 
 ## Tools & Technologies
 - ROS2  
-- Python, C++, Java  
+- Python, C++, Java
+- RS-485 Communication
 - Universal Robots (UR)  
 - Linux  
 - Robotic tooling design  
