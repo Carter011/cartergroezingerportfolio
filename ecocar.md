@@ -19,7 +19,7 @@ Within this effort, V2X communication serves as a critical link between percepti
 ---
 
 ## My Role
-I served as **Team Lead for Connected and Autonomous Vehicle Systems (CAVS)**. My responsibilities included:
+I served as **V2X / Team Lead for Connected and Autonomous Vehicle Systems (CAVS)**. My responsibilities included:
 
 - Planning and coordinating system integration activities  
 - Configuring V2X communication hardware and software  
