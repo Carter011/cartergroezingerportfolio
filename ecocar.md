@@ -59,7 +59,7 @@ This approach allowed issues to be identified early and resolved before vehicle-
 - Linux  
 - C++  
 - Networking and communication protocols  
-- Vehicle communication standards (BSMs)  
+- Vehicle communication standards (SAE J2735)  
 - System integration and validation workflows  
 
 ---
