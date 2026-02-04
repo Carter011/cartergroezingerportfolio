@@ -1,8 +1,5 @@
 [Home](index.md) | [Projects](projects.md) | [About](about.md) | [Resume](resume.pdf)
 
----
-title: Accelerated Lattice Boltzmann Solver
----
 
 # Accelerated Lattice Boltzmann Solver for High-Reynolds Flows
 
