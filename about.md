@@ -1,8 +1,6 @@
 [Home](index.md) | [Projects](projects.md) | [About](about.md) | [Resume](resume.pdf)
 
 ---
-title: About
----
 
 # About Me
 
