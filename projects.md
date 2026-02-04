@@ -4,17 +4,28 @@ title: Projects
 
 # Projects
 
-## EcoCAR – V2X / CAVS Testing & Validation
-Led Vehicle to Everything communication team and validated final Connected Automated Vehicle Systems
+## Accelerated Lattice Boltzmann Solver for High-Reynolds Flows
+Development and optimization of a GPU-accelerated Lattice Boltzmann Method (LBM) solver, focusing on numerical stability and computational performance.
 
-[Read more](ecocar.md)
+[Read more](lbm-solver.html)
 
-## Cardinal Health – Automation & FAT
-Supported Factory Acceptance Testing (FAT) and robotic system validation.
+---
 
-[Read more](cardinal-health.md)
+## Renal Artery Hemodynamics Using the Lattice Boltzmann Method (FEDSM 2026)
+In-silico investigation of renal artery flow following fenestrated endovascular aneurysm repair, with results submitted to the ASME Fluids Engineering Division Summer Meeting.
 
-## MADAL – Computational Hemodynamics
-Lattice Boltzmann-based hemodynamic simulations supporting clinical decisions.
+[Read more](renal-hemodynamics.html)
 
-[Read more](madal.md)
+---
+
+## EcoCAR EV Challenge – V2X Systems Integration
+System-level integration and testing of vehicle-to-vehicle and vehicle-to-infrastructure communication systems.
+
+[Read more](ecocar.html)
+
+---
+
+## Cardinal Health – Robotic Automation Engineering
+Industrial automation, robotic integration, and support of factory acceptance testing in a manufacturing environment.
+
+[Read more](cardinal-health.html)
