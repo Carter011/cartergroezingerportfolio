@@ -1,3 +1,5 @@
+[Home](index.md) | [Projects](projects.md) | [About](about.md) | [Resume](resume.pdf)
+
 ---
 title: EcoCAR – V2X Systems Integration
 ---
