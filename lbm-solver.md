@@ -33,6 +33,3 @@ Traditional CFD approaches can become computationally expensive when resolving h
 - Enabled high-resolution simulations at reduced computational cost  
 - Established a stable solver configuration for downstream applied research  
 
-
-```markdown
-![GPU vs CPU Performance Comparison](assets/lbm-performance.png)
