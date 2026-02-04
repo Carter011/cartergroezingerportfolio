@@ -4,6 +4,20 @@ title: Projects
 
 # Projects
 
+## Cardinal Health – Robotic Automation Engineering
+Industrial automation, robotic integration, and support of factory acceptance testing in a manufacturing environment.
+
+[Read more](cardinal-health.html)
+
+---
+
+## EcoCAR EV Challenge – V2X Systems Integration
+System-level integration and testing of vehicle-to-vehicle and vehicle-to-infrastructure communication systems.
+
+[Read more](ecocar.html)
+
+---
+
 ## Accelerated Lattice Boltzmann Solver for High-Reynolds Flows
 Development and optimization of a GPU-accelerated Lattice Boltzmann Method (LBM) solver, focusing on numerical stability and computational performance.
 
@@ -17,15 +31,3 @@ In-silico investigation of renal artery flow following fenestrated endovascular 
 [Read more](renal-hemodynamics.html)
 
 ---
-
-## EcoCAR EV Challenge – V2X Systems Integration
-System-level integration and testing of vehicle-to-vehicle and vehicle-to-infrastructure communication systems.
-
-[Read more](ecocar.html)
-
----
-
-## Cardinal Health – Robotic Automation Engineering
-Industrial automation, robotic integration, and support of factory acceptance testing in a manufacturing environment.
-
-[Read more](cardinal-health.html)
