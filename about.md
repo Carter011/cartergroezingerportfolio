@@ -9,5 +9,3 @@ I am a Mechanical Engineering student at Embry-Riddle Aeronautical University wi
 Through research with the Multiscale Advection Diffusion Analysis Laboratory (MADAL), I have developed and applied high-performance computational tools to study complex fluid systems. In parallel, my work on the EcoCAR EV Challenge and at Cardinal Health has given me hands-on experience integrating, testing, and validating real world engineering systems.
 
 Outside the classroom and lab, I am a member of the NCAA Division II Men’s Lacrosse team at Embry-Riddle. Balancing athletics with engineering has strengthened my time management, teamwork, and ability to perform under pressure.
-
-I enjoy projects that sit at the intersection of analysis, implementation, and iteration—where understanding the system is just as important as building it.
