@@ -57,7 +57,7 @@ This agreement supports the suitability of LBM-based solvers for investigating p
 
 ![Effect of branch angle on renal artery flow](assets/renal-hemodynamics/branch-angle.png)
 
-*Comparison of flow behavior for different branch stent angles, illustrating increased flow separation at reduced angles.*
+*Region of interest illustrating increased flow separation.*
 
 ---
 
