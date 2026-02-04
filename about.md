@@ -3,7 +3,10 @@
 
 # About Me
 
-![Professional headshot](assets/about/professional-headshot.jpg)
+<p align="center">
+  <img src="assets/about/professional-headshot.jpg" width="200">
+</p>
+
 
 I am a Mechanical Engineering student at Embry-Riddle Aeronautical University with a concentration in Robotics and Automation. My interests lie at the intersection of computational modeling, system integration, and real-world engineering implementation.
 
@@ -13,7 +16,10 @@ Through research with the Multiscale Advection Diffusion Analysis Laboratory (MA
 
 ## Student-Athlete Experience
 
-![Embry-Riddle Men's Lacrosse](assets/about/athletics-headshot.jpg)
+<p align="center">
+  <img src="assets/about/athletics-headshot.jpg" width="200">
+</p>
+
 
 I am also a member of the **NCAA Division II Men’s Lacrosse team at Embry-Riddle**, where I compete as a student-athlete while maintaining a full engineering course load.
 
