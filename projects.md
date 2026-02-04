@@ -4,7 +4,7 @@ title: Projects
 
 # Projects
 
-## EcoCAR – CAVS Testing & Validation
+## EcoCAR – V2X / CAVS Testing & Validation
 Validated the final CAVS system through SIL, HIL, and VIL testing.
 
 [Read more](ecocar.md)
