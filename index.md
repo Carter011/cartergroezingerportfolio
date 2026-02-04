@@ -9,8 +9,8 @@ Mechanical Engineering student at Embry-Riddle Aeronautical University (May 2026
 ---
 
 <p align="center">
-  <a href="projects.md"><b>Projects</b></a> &nbsp;•&nbsp;
-  <a href="about.md"><b>About</b></a> &nbsp;•&nbsp;
+  <a href="projects.html"><b>Projects</b></a> &nbsp;•&nbsp;
+  <a href="about.html"><b>About</b></a> &nbsp;•&nbsp;
   <a href="resume.pdf"><b>Resume</b></a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/cgroezinger"><b>LinkedIn</b></a>
 </p>
