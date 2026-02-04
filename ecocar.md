@@ -7,7 +7,7 @@ title: EcoCAR – V2X Systems Integration
 ## Project Overview
 This project focused on the integration and validation of vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication systems as part of the EcoCAR EV Challenge. The work involved configuring onboard communication hardware, developing supporting software, and testing system performance in simulated and real vehicle environments.
 
-The goal was to enable reliable transmission of Basic Safety Messages (BSMs) to support connected and autonomous vehicle functionality.
+The goal was to enable reliable transmission of live vehicle data to support connected and autonomous vehicle functionality.
 
 ---
 
@@ -34,7 +34,7 @@ The V2X system consisted of onboard communication hardware integrated with the v
 Key components included:
 - V2X radio hardware  
 - Linux-based computing platform  
-- Network interfaces for vehicle data access  
+- Ethernet interfaces for vehicle data access  
 - Software for encoding and broadcasting Basic Safety Messages  
 
 ---
@@ -66,7 +66,7 @@ This approach allowed issues to be identified early and resolved before vehicle-
 
 ## Results
 - Successfully integrated V2V and V2I communication capabilities into the EcoCAR vehicle  
-- Verified reliable transmission of Basic Safety Messages  
+- Verified reliable transmission and receiving of data packets  
 - Demonstrated system functionality through testing and poster presentations  
 - Contributed to overall system readiness for vehicle-level operation  
 
