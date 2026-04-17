@@ -75,4 +75,4 @@ This work was submitted to and accepted for presentation at the ASME Fluids Engi
 *An In-Silico Investigation of Renal Artery Hemodynamics in Fenestrated Endovascular Aneurysm Repair Using the Lattice Boltzmann Method*  
 ASME FEDSM 2026.
 
-📄 **[View full publication (PDF)](assets/renal-hemodynamics/FEDSM2026_184313.pdf)**
+📄 **[View full publication (PDF)](assets/renal-hemodynamics/FEDSM2026-184313.pdf)**
